@@ -1,3 +1,3 @@
 const Hello = 'Hello world';
-
-console.log(Hello)
+let Development = True
+console.log(Hello, 'Development status', Development)
