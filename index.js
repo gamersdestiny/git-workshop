@@ -1,3 +1,3 @@
 const Hello = 'Hello world';
-let Development = false
+var deployment = false
 console.log(Hello, 'Development status', Development)
