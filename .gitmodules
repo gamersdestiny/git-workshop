@@ -4,3 +4,9 @@
 [submodule "submodule-workshop"]
 	path = submodule-workshop
 	url = https://github.com/gamersdestiny/submodule-workshop
+[submodule "workshop-21/simple-login-app"]
+	path = workshop-21/simple-login-app
+	url = https://github.com/gamersdestiny/simple-login-app.git
+[submodule "workshop-20/react-h3a"]
+	path = workshop-20/react-h3a
+	url = https://github.com/gamersdestiny/react-h3a.git
