@@ -10,3 +10,6 @@
 [submodule "workshop-20/react-h3a"]
 	path = workshop-20/react-h3a
 	url = https://github.com/gamersdestiny/react-h3a.git
+[submodule "workshop-22/react-redux"]
+	path = workshop-22/react-redux
+	url = https://github.com/Guna-work/react-redux.git
