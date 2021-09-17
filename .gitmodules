@@ -13,3 +13,9 @@
 [submodule "workshop-22/react-redux"]
 	path = workshop-22/react-redux
 	url = https://github.com/Guna-work/react-redux.git
+[submodule "workshop-23/angular-h3a"]
+	path = workshop-23/angular-h3a
+	url = https://github.com/Guna-work/angular-h3a.git
+[submodule "workshop-24/angular-login-app"]
+	path = workshop-24/angular-login-app
+	url = https://github.com/Guna-work/angular-login-app.git
