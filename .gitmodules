@@ -19,3 +19,6 @@
 [submodule "workshop-24/angular-login-app"]
 	path = workshop-24/angular-login-app
 	url = https://github.com/Guna-work/angular-login-app.git
+[submodule "workshop-25/angularjs-25"]
+	path = workshop-25/angularjs-25
+	url = https://github.com/Guna-work/angularjs-25.git
