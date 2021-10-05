@@ -22,3 +22,24 @@
 [submodule "workshop-25/angularjs-25"]
 	path = workshop-25/angularjs-25
 	url = https://github.com/Guna-work/angularjs-25.git
+[submodule "workshop-10/Node-jwt"]
+	path = workshop-10/Node-jwt
+	url = https://github.com/Guna-work/Node-jwt
+[submodule "workshop-11/Node-files"]
+	path = workshop-11/Node-files
+	url = https://github.com/Guna-work/Node-files
+[submodule "workshop-12/node-mongoApi"]
+	path = workshop-12/node-mongoApi
+	url = https://github.com/Guna-work/node-mongoApi
+[submodule "workshop-13/corn-jwt"]
+	path = workshop-13/corn-jwt
+	url = https://github.com/Guna-work/corn-jwt
+[submodule "workshop-15/node-rabbitmq"]
+	path = workshop-15/node-rabbitmq
+	url = https://github.com/Guna-work/node-rabbitmq
+[submodule "workshop-16/node-promise"]
+	path = workshop-16/node-promise
+	url = https://github.com/Guna-work/node-promise
+[submodule "workshop-17/node-api"]
+	path = workshop-17/node-api
+	url = https://github.com/Guna-work/node-api
